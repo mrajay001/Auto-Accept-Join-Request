@@ -35,10 +35,10 @@ bot.start(async (ctx) => {
             reply_markup: {
                 inline_keyboard: [
                     [
-                        { text: '✨ Join Our Update Channel ✨', url: 'https://t.me/Opleech_WD' }, // Replace with your channel link
+                        { text: '✨ Join Our Update Channel ✨', url: 'https://t.me/New_Anime_Hindi_dub_ST' }, // Replace with your channel link
                     ],
                     [
-                        { text: '✉️ টপিক গ্রুপ জয়েন করুন ✉️', url: 'https://t.me/+XfmrBSzTyRFlZTI9' } // Replace with your second channel link
+                        { text: '✉️ Support Group  ✉️', url: 'https://t.me/+7SM8FSc6LHRmMzZl' } // Replace with your second channel link
                     ]
                 ]
             }
